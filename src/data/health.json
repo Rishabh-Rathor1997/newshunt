@@ -1,0 +1,268 @@
+
+
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "The Indian Express",
+        "title": "Health benefits of consuming psyllium husk every day - The Indian Express",
+        "description": null,
+        "url": "https://indianexpress.com/web-stories/food/health-benefits-of-consuming-psyllium-husk-every-day/9424612/",
+        "urlToImage": null,
+        "publishedAt": "2024-07-01T04:30:45Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Experts Find Plant-Based Meat Alternatives Are Healthier For Your Heart Than Meat, Here Is What You Can Eat - NDTV Food",
+        "description": "Plant-based meat alternatives have a more heart-healthy nutritional profile than meat, according to the latest research. Read on to discover foods that are popular meat alternatives.",
+        "url": "https://food.ndtv.com/health/experts-find-plant-based-meat-alternatives-are-healthier-for-your-heart-than-meat-here-is-what-you-can-eat-6006923",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/1p2h5j88_plant-based-meat_625x300_01_July_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+        "publishedAt": "2024-07-01T04:30:03Z",
+        "content": "Plant-based meat alternatives are highly processed plant-based food products that typically replace meat in the diet. These foods may have a taste, texture, or appearance similar to meat but do not c… [+3414 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Newslaundry.com"
+        },
+        "author": "Aishwarya Tripathi, IndiaSpend",
+        "title": "How unseasonal rains are extending malaria transmission windows - Newslaundry",
+        "description": "Climate change is prolonging mosquito breeding and malaria transmission periods beyond the monsoons in UP’s Sonbhadra.",
+        "url": "https://www.newslaundry.com/2024/07/01/how-unseasonal-rains-are-extending-malaria-transmission-windows",
+        "urlToImage": "https://media.assettype.com/newslaundry%2F2024-06%2F3b13d725-3c4b-4e21-97be-03d9464aae6b%2Frepub.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2024-07-01T04:30:01Z",
+        "content": "New transmission windows emerge\r\nWhile malaria is showing up unannounced, the district health department awaits guidelines for using a new compound for Indoor Residual Spraying (IRS) from the Departm… [+9132 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Thebridgechronicle.com"
+        },
+        "author": "Salil Urunkar",
+        "title": "Pune Zika Cases: Pregnant woman infected; Contact tracing underway - The Bridge Chronicle",
+        "description": "Pune: A pregnant woman from the Erandwane area has tested positive for the Zika virus, raising the total number of Zika cases in the city to five. In response,",
+        "url": "https://www.thebridgechronicle.com/news/pune-zika-cases-pregnant-woman-infected-contact-tracing-underway",
+        "urlToImage": "https://media.assettype.com/thebridgechronicle%2Fimport%2Fs3fs-public%2Fnews-story%2Fcover-images%2F2mosquito_edited.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2024-07-01T04:22:47Z",
+        "content": "Pune: A pregnant woman from the Erandwane area has tested positive for the Zika virus, raising the total number of Zika cases in the city to five. In response, the Pune Municipal Corporation's health… [+2253 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Thehansindia.com"
+        },
+        "author": "Naresh Nandam",
+        "title": "Sudden increase of activity raises risk of heart failure - The Hans India",
+        "description": "Dr Y Vijayachandra Reddy, Senior Consultant Interventional Cardiologist conducts an interactive session with the local cardiologists on the latest trends in the treatment",
+        "url": "https://www.thehansindia.com/andhra-pradesh/sudden-increase-of-activity-raises-risk-of-heart-failure-888439",
+        "urlToImage": "https://assets.thehansindia.com/h-upload/2024/07/01/1458577-apollo.jpg",
+        "publishedAt": "2024-07-01T04:22:06Z",
+        "content": "Ongole: Dr Y Vijayachandra Reddy, Senior Consultant Interventional Cardiologist with Apollo Hospitals Main Branch in Chennai said that a sudden increase in an activity like a workout, marathon runnin… [+2380 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ophthalmologytimes.com"
+        },
+        "author": "Palla Deepika",
+        "title": "Insights into neovascular glaucoma: Pathogenesis and detection of diabetic retinopathy - Ophthalmology Times Europe",
+        "description": "Management of neovascular glaucoma focuses on decreasing retinal ischemia through panretinal photocoagulation and the injection of anti-VEGF agents",
+        "url": "https://europe.ophthalmologytimes.com/view/insights-into-neovascular-glaucoma-pathogenesis-and-detection-of-diabetic-retinopathy",
+        "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/ophtimeeurope/b565d003fd8d5e0e8fc98a77d988cea8545fe128-1200x650.jpg?fit=crop&auto=format",
+        "publishedAt": "2024-07-01T04:15:12Z",
+        "content": "Neovascular glaucoma (NVG) represents a severe form of secondary glaucoma accompanied by substantial complications and typically results in a poor visual prognosis. NVG is characterised by the emerge… [+15524 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Dtnext.in"
+        },
+        "author": "IANS",
+        "title": "Fathers' intake of fish oil supplements can lower obesity risk in kids, shows study - DTNEXT",
+        "description": "The team’s previous study demonstrated the benefits of fish oil supplementation in mothers for reducing childhood obesity risk.",
+        "url": "https://www.dtnext.in/lifestyle/wellbeing/fathers-intake-of-fish-oil-supplements-can-lower-obesity-risk-in-kids-shows-study-792736",
+        "urlToImage": "https://dtnext-prod.s3.ap-south-1.amazonaws.com/h-upload/2024/07/01/831971-c0bc89f6bbe4be315400667e360713dd.webp",
+        "publishedAt": "2024-07-01T04:00:03Z",
+        "content": "NEW DELHI: Fathers who consume fish oil supplements can help reduce the risk of obesity among children, said researchers after a study in mice.\r\nThe study by researchers at Syracuse University in the… [+1589 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Quint"
+        },
+        "author": "Garima Sadhwani",
+        "title": "‘Lifestyle Factors, Delayed Fatherhood’: Why Male Infertility Is Rising in India - The Quint FIT",
+        "description": "Male infertility (almost as much as female infertility) is a taboo in India. There’s secrecy, shame, and stigma attached to the condition. All this, even as we have been seeing an increasing rate of male infertility in the past few years.",
+        "url": "https://www.thequint.com/fit/male-infertility-increasing-incidence-in-india-what-causes-it-explained",
+        "urlToImage": "https://images.thequint.com/thequint%2F2024-06%2F54fa8cf8-b7f0-4ec6-8d06-67531bb42e61%2FHero_image___Garima.png",
+        "publishedAt": "2024-07-01T04:00:00Z",
+        "content": "And treatment is possible in some cases too. \r\nDr Ashwini explains that hormone injections and antibiotic drugs are sometimes given to patients. \r\nIf theres a tract blockage in the duct, or someone i… [+690 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fitandwell.com"
+        },
+        "author": "Daniella Gray",
+        "title": "I tried skipping every day for a month—here's what happened - Fit and Well",
+        "description": "It’s a simple, cheap and fun way to get fit",
+        "url": "https://www.fitandwell.com/features/i-tried-skipping-every-day-for-a-month-here-s-why-i-recommend-trying-it-if-you-want-to-feel-stronger-and-fitter",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/m49cTCfbPdvHJNqJf7g4Sg-1200-80.jpg",
+        "publishedAt": "2024-07-01T04:00:00Z",
+        "content": "I’ve been prioritizing strength training recently, so my cardio workouts have fallen down the priority list. I wanted to shake things up with a fun new activity, rather than try the same old spin bik… [+2726 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "India Today"
+        },
+        "author": "Daphne Clarance",
+        "title": "Researchers identify bacteria in gut contributing to food addiction and obesity - India Today",
+        "description": "Researchers have discovered specific gut bacteria that contribute to food addiction leading to obesity in both mice and humans Their findings highlight potential new treatments involving beneficial bacteria and dietary supplements",
+        "url": "https://www.indiatoday.in/health/story/researchers-identify-bacteria-in-gut-contributing-to-food-addiction-and-obesity-2560521-2024-07-01",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/gut-microbiome-concept-human-intestine-microbiota-with-so-called-bad-bacteria-flat-abstract-illust-01483014-16x9_0.jpg?VersionId=oUa5fCU4w5bd.GZJP6Ni_7zE0PPirQIe",
+        "publishedAt": "2024-07-01T03:50:11Z",
+        "content": "Researchers have discovered specific gut bacteria that contribute to food addiction, leading to obesity, in both mice and humans.\r\nTheir findings, presented at the Federation of European Neuroscience… [+3332 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tempo.co"
+        },
+        "author": "Dewi Elvia Muthiariny",
+        "title": "Boost Your Coffee Habit: 7 Tips for a Healthier Brew - Tempo.co English",
+        "description": "To maximize the health benefits and avoid the downsides of coffee, here are seven tips to transform your coffee routine into a healthier one.",
+        "url": "https://en.tempo.co/read/1885993/boost-your-coffee-habit-7-tips-for-a-healthier-brew",
+        "urlToImage": "https://statik.tempo.co/data/2023/04/01/id_1193804/1193804_720.jpg?rand=8",
+        "publishedAt": "2024-07-01T03:38:49Z",
+        "content": "TEMPO.CO, Jakarta - Coffee is a beloved beverage enjoyed for its taste and potential health benefits. It can even be a surprising source of antioxidants for some people. However, like most things, mo… [+2437 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Newslaundry.com"
+        },
+        "author": "Swagata Yadavar",
+        "title": "Ignorance and apathy: Why one Indian woman dies of cervical cancer every 7 minutes - Newslaundry",
+        "description": "The HPV vaccine is yet to be included in India’s free vaccination programme and there is little awareness on the issue.",
+        "url": "https://www.newslaundry.com/2024/07/01/ignorance-and-apathy-why-one-indian-woman-dies-of-cervical-cancer-every-7-minutes",
+        "urlToImage": "https://media.assettype.com/newslaundry%2F2024-06%2F47a97325-8b49-4f1f-83d5-fd60a470cf27%2Frepub__2_.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2024-07-01T03:30:58Z",
+        "content": "Hesitation over cervical exam\r\nOther than programmatic effectiveness, one of the major challenges to cervical cancer screening is the hesitation and anxiety surrounding cervical screenings. There is … [+6632 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Herzindagi.com"
+        },
+        "author": "Akash Yadav",
+        "title": "5 Surprising Benefits Of Eating Raw Onion During Heatwave - HerZindagi",
+        "description": "Packed with antioxidants and various nutrients, eating raw onion can protect you from heatwave. It can also regulate blood pressure",
+        "url": "https://www.herzindagi.com/web-stories/health/surprising-health-benefits-of-eating-raw-onion-during-heatwave-ws-29104",
+        "urlToImage": "https://images.herzindagi.info/webstories/29104/schema-akash-1717157048.jpeg",
+        "publishedAt": "2024-07-01T03:30:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Indiatodayne.in"
+        },
+        "author": "INDIATODAYNE",
+        "title": "Eat More Strawberries ! - India Today NE",
+        "description": "Strawberries are nutrient-rich fruits packed with vitamins, antioxidants, and fiber, offering numerous health benefits. Regular consumption supports heart health, boosts immunity, and promotes skin he",
+        "url": "https://www.indiatodayne.in/visualstories/webstories/eat-more-strawberries-148055-01-07-2024",
+        "urlToImage": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/07/7737cc5acaef557fea76441c3a484890.jpg?size=*:900",
+        "publishedAt": "2024-07-01T03:23:36Z",
+        "content": "Strawberries are packed with vitamins and minerals, including vitamin C, manganese, folate, and potassium."
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Riya Sharma",
+        "title": "‘Practise body awareness, investigate family history to detect breast cancer’ - The Times of India",
+        "description": "Hina Khan, 36, recently revealed her diagnosis of Stage 3 breast cancer. Doctors share insights into the rise in breast cancer among young women and t",
+        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/practise-body-awareness-investigate-family-history-to-detect-breast-cancer/articleshow/111392021.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-111392001,width-1070,height-580,imgsize-15850,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-07-01T03:14:00Z",
+        "content": "Khushi Kapoor exudes sophistication in traditional attire"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Itnewsonline.com"
+        },
+        "author": null,
+        "title": "Bangkok Hospital Invests in State-of-the-Art Robot-Assisted Surgery to Elevate Patient Care through Surgical Innovation - IT News Online",
+        "description": "Bangkok Hospital Invests in State-of-the-Art Robot-Assisted Surgery to Elevate Patient Care through Surgical Innovation",
+        "url": "https://www.itnewsonline.com/news/Bangkok-Hospital-Invests-in-State-of-the-Art-Robot-Assisted-Surgery-to-Elevate-Patient-Care-through-Surgical-Innovation/23947",
+        "urlToImage": null,
+        "publishedAt": "2024-07-01T02:57:29Z",
+        "content": "<table><tr><td>Bangkok Hospital Invests in State-of-the-Art Robot-Assisted Surgery to Elevate Patient Care through Surgical InnovationMedia OutReach2024-07-01</td></tr></table>\r\nBANGKOK, THAILAND - M… [+3410 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Odishatv.in"
+        },
+        "author": "Soumya Prakash Pradhan",
+        "title": "6 Remarkable Benefits Of Setu Bandhasana To Strengthen Your Back - OTV News",
+        "description": "Transform your back with Setu Bandhasana (Bridge Pose)! Strengthen lower back muscles, improve posture, relieve pain, and boost flexibility. Enhance spinal health and calm your mind with this beneficial yoga pose.",
+        "url": "https://odishatv.in/webstories/lifestyle/six-remarkable-benefits-of-setu-bandhasana-to-strengthen-your-back-238217",
+        "urlToImage": "https://images.odishatv.in/uploadimage/library/16_9/16_9_1/recent_photo_1719801728.webp",
+        "publishedAt": "2024-07-01T02:49:51Z",
+        "content": "Apart from the back, Setu Bandhasana also stretches the chest, neck, and hip flexors, promoting overall flexibility."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deccan Herald"
+        },
+        "author": "Bhaskar Nerurkar",
+        "title": "Health insurance for monsoon-related Illnesses: What you need to know - Deccan Herald",
+        "description": "Health insurance for monsoon-related Illnesses: What you need to know",
+        "url": "https://www.deccanherald.com/business/personal-finance/health-insurance-for-monsoon-related-illnesses-what-you-need-to-know-3087107",
+        "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-06%2F3c9f8f0a-a876-47d2-b63d-1d281065de80%2Ffile7qusbydodvoefewzlea.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+        "publishedAt": "2024-07-01T02:06:44Z",
+        "content": "Medical costs to address these illnesses may include hospitalisation, diagnostic tests, medications, and follow-up treatments. A single-day hospitalisation, for instance, may cost anywhere between Rs… [+220 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Karnataka Dengue Cases | As The Monsoon Intensifies, Karnataka Has Witnessed A Spike In Dengue - CNN-News18",
+        "description": "#KarnatakaDengueCases: As the monsoon intensifies, Karnataka has witnessed a spike in Dengue cases with 5374 cases across state and 1230 cases in Bengaluru a...",
+        "url": "https://www.youtube.com/watch?v=Dj58UlHE6_g",
+        "urlToImage": "https://i.ytimg.com/vi/Dj58UlHE6_g/maxresdefault.jpg",
+        "publishedAt": "2024-07-01T02:01:34Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Prithvijit Mitra",
+        "title": "City records early spike in typhoid cases - The Times of India",
+        "description": "Kolkata records a sharp rise in typhoid cases, with hospitals seeing an increase in patients presenting with fever and abdominal symptoms. Learn about the causes, symptoms, and treatments for typhoid fever.",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/city-records-early-spike-in-typhoid-cases/articleshow/111390139.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-111390138,width-1070,height-580,imgsize-49234,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-06-30T23:53:00Z",
+        "content": "Unforgettable train journeys across Indias best landscape"
+      }
+    ]
+  }
